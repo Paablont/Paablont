@@ -1,16 +1,26 @@
-# Pablo Villaseñor Ruiz
+# Pablo Villaseñor Ruiz || Desarrollador de software Junior
+#### Estudiante de CFGS Desarrollo de Aplicaciones Multiplataforma (DAM) - IES MAESTRE DE CALATRAVA
 
-<!--
-**Paablont/Paablont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Actualmente haciendo FCTs en Indra - Ciudad Real-->
 
-Here are some ideas to get you started:
+## Contacto
+[![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paablont@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://es.linkedin.com/in/pablovillase%C3%B1or)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías usadas
+
+![Lenguajes](https://skillicons.dev/icons?i=cs,java,kotlin,py,unity,firebase,androidstudio&theme=light)
+
+**C# | Java | Kotlin | Python | Unity | Firebase | Android Studio**
+
+## Quiero aprender
+![Lenguajes](https://skillicons.dev/icons?i=cpp,raspberrypi&theme=light)
+
+**C++ | Raspberry**
+## MIS REDES SOCIALES 
+
+Estoy comenzando a crear contenido de videojuegos para varias plataformas
+
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@paablont)
+[![Tiktok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@paablont)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/paablont)

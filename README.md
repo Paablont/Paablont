@@ -9,7 +9,7 @@ Actualmente haciendo FCTs en Indra - Ciudad Real
 
 ## Tecnologías usadas
 
-![Lenguajes](https://skillicons.dev/icons?i=cs,java,kotlin,py,unity,firebase,androidstudio&theme=light.angular)
+![Lenguajes](https://skillicons.dev/icons?i=cs,java,kotlin,py,unity,firebase,androidstudio&theme=light)
 
 **C# | Java | Kotlin | Python | Unity | Firebase | Android Studio**
 

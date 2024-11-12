@@ -1,7 +1,7 @@
 # Pablo Villaseñor Ruiz || Desarrollador de software Junior
-#### Estudiante de CFGS Desarrollo de Aplicaciones Multiplataforma (DAM) - IES MAESTRE DE CALATRAVA
+#### Desarrollador Junior | Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM) | Apasionado por el Desarrollo de Videojuegos (Unity, Unreal)
 
-Actualmente haciendo FCTs en Indra - Ciudad Real
+Actualmente trabajando en Indra Sistemas en proyecto con Clarity PPM
 
 ## Contacto
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paablont@gmail.com)
